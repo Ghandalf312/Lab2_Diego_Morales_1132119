@@ -1,0 +1,20 @@
+﻿  MyForm.cpp
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(171,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(175,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+  RutaCarrera.cpp
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(179,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(156,3): error C2065:  'RutaCarrera': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(156,16): error C2065:  'PosT': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(156,1): error C2061:  error de sintaxis: identificador 'RutaCarrera'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(157,3): error C2065:  'RutaCarrera': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(157,16): error C2065:  'PosL': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(157,1): error C2061:  error de sintaxis: identificador 'RutaCarrera'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(161,4): error C2065:  'PosT': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(162,4): error C2065:  'PosL': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(165,10): error C2065:  'PosT': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(165,19): error C2065:  'PosL': identificador no declarado
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(171,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(175,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\MyForm.h(179,1): warning C4302:  '<function-style-cast>': truncamiento de 'const char *' a 'char'
+  Generando código...
+C:\Users\Diego\source\repos\Lab2_Diego_Morales_1132119\Lab2_Diego_Morales_1132119\RutaCarrera.cpp(12,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
